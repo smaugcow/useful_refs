@@ -18,6 +18,8 @@
 
 [валидатор yaml + refs раскручивает](https://www.yamllint.com/)
 
+[nsswitch](https://zalinux.ru/?p=2814)
+
 # useless_refs
 
 [канал тг мой](https://t.me/+jZT2w-Ci_rQxNzUy)
