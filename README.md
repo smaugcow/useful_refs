@@ -23,7 +23,7 @@
 
 [Кроссворды из регулярок](https://regexcrossword.com/)
 
-[Визуализация RedBlack](https://www.cs.usfca.edu/~galles/visualization/RedBlack.html)
+[Визуализация RedBlack tree](https://www.cs.usfca.edu/~galles/visualization/RedBlack.html)
 
 ## DevOps:
 https://www.keybr.com/
