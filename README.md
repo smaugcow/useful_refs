@@ -1,31 +1,33 @@
 # useful_refs
-[кратко про балансеры](https://samwho.dev/load-balancing)
 
-[роудмапа для разных направлений](https://roadmap.sh)
+[a quick one on load balancers](https://samwho.dev/load-balancing)
 
-[святые алгоритмы](https://algorithmica.org)
+[roadmaps for different paths](https://roadmap.sh)
 
-[челлендж челлендж челлендж](https://programming-challenges.jeremyjaydan.dev)
+[holy algorithms](https://algorithmica.org)
+
+[challenge challenge challenge](https://programming-challenges.jeremyjaydan.dev)
 
 [linux net stack](https://www.opensource-osijek.org/slike/OpenStack%20or%20Linux%20bridge%20KVM%20-%20Linux%20network%20stack-details-poster-EN.pdf)
 
-[ping в linux](https://habr.com/ru/articles/803149/)
+[ping in linux](https://habr.com/ru/articles/803149/)
 
-[что стоит за dhcp](https://habr.com/ru/companies/yandex/articles/774462/)
+[what’s behind dhcp](https://habr.com/ru/companies/yandex/articles/774462/)
 
-[ММТС-9?](https://habr.com/ru/companies/contell/articles/317382/)
+[MMTS-9?](https://habr.com/ru/companies/contell/articles/317382/)
 
-[валидатор yaml + refs раскручивает](https://www.yamllint.com/)
+[yaml validator + unwraps refs](https://www.yamllint.com/)
 
 [nsswitch](https://zalinux.ru/?p=2814)
 
-[Сети в Linux (курс)](https://edu.slurm.io/courses/networks-ops1/)
+[Networks in Linux (course)](https://edu.slurm.io/courses/networks-ops1/)
 
-[Кроссворды из регулярок](https://regexcrossword.com/)
+[regex crosswords](https://regexcrossword.com/)
 
-[Визуализация RedBlack tree](https://www.cs.usfca.edu/~galles/visualization/RedBlack.html)
+[RedBlack tree visualization](https://www.cs.usfca.edu/~galles/visualization/RedBlack.html)
 
 ## DevOps:
+
 https://www.keybr.com/
 
 https://monkeytype.com/
@@ -67,6 +69,7 @@ https://www.youtube.com/watch?v=V5vZWHP-RqU
 https://sadservers.com/scenarios
 
 # useless_refs
-[канал тг мой](https://t.me/+jZT2w-Ci_rQxNzUy)
 
-[ютуба немного есть](https://www.youtube.com/channel/UCtyQOLCacrYqsJ_B_8Dn8Cw)
+[my tg channel](https://t.me/+jZT2w-Ci_rQxNzUy)
+
+[there’s a bit of youtube too](https://www.youtube.com/channel/UCtyQOLCacrYqsJ_B_8Dn8Cw)
